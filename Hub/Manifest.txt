@@ -1,2 +1,0 @@
-Hub.uplugin
-Content/Paks/Windows/HubMTM-Windows.pak
