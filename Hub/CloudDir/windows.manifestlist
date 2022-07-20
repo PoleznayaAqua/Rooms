@@ -1,0 +1,14 @@
+{
+	"ClientVersion": "Hub",
+	"BuildUrl": "Hub/Windows",
+	"files": [
+		{
+			"filename": "MTM_MTMHub.manifest",
+			"uniqueFilename": "MTM_MTMHub.manifest",
+			"length": 908,
+			"URL": "MTM_MTMHub.manifest",
+			"hash": "3C4AA3954D0F4B3B6781E5992822CAF51DBE9C56",
+			"hash256": "2DC37011A234FD0B9B815A2EF9B5B07076C4929CF0E2FB23AA67C2C3238EE89E"
+		}
+	]
+}
